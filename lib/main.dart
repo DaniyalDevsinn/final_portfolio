@@ -1,5 +1,3 @@
-import 'package:final_portfolio/view/about.dart';
-import 'package:final_portfolio/view/home.dart';
 import 'package:final_portfolio/view/home_page.dart';
 import 'package:flutter/material.dart';
 

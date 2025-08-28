@@ -67,7 +67,7 @@ class Projects extends StatelessWidget {
                   crossAxisCount: crossAxisCount,
                   crossAxisSpacing: 20,
                   mainAxisSpacing: 20,
-                  childAspectRatio: 0.9,
+                  childAspectRatio: 0.8,
                 ),
                 itemCount: projects.length,
                 itemBuilder: (context, index) {
