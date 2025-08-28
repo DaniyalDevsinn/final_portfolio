@@ -13,7 +13,7 @@ class Projects extends StatelessWidget {
       "description": "A personal portfolio built with Flutter Web.",
       "image": "assets/portfolio.png",
       "codeLink": "https://github.com/yourusername/portfolio",
-      "liveLink": "https://yourportfolio.web.app"
+      "liveLink": "https://daniyaldevsinn.github.io/Portfolio/"
     },
     {
       "title": "Weather App",
